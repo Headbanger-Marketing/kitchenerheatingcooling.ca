@@ -1,15 +1,26 @@
 # Kitchener Heating & Cooling
 
-> Licensed, insured HVAC company in Kitchener, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Kitchener and Waterloo Region. Call (519) 590-5333.
+> Kitchener Heating & Cooling is a local HVAC company serving Kitchener, Waterloo Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 590-5333  |  Email: contact@kitchenerheatingcooling.ca  |  Website: https://kitchenerheatingcooling.ca
+
+Service areas: Kitchener, Cambridge, Waterloo, Elmira, Listowel, New Hamburg, Baden, Breslau
 
 ## Key pages
-- [Home](https://kitchenerheatingcooling.ca/)
-- [Services](https://kitchenerheatingcooling.ca/services/)
-- [About](https://kitchenerheatingcooling.ca/about/)
-- [Blog](https://kitchenerheatingcooling.ca/blog/)
-- [Contact](https://kitchenerheatingcooling.ca/contact/)
 
-## Contact
-- Phone: (519) 590-5333
-- Email: contact@kitchenerheatingcooling.ca
-- Area served: Kitchener, Ontario and Waterloo Region
+- [Home](https://kitchenerheatingcooling.ca/): Kitchener Heating & Cooling homepage with service overview and FAQ
+- [About](https://kitchenerheatingcooling.ca/about/): About the company and service area
+- [Contact](https://kitchenerheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://kitchenerheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Kitchener, Ontario
+- [AC Installation & Repair](https://kitchenerheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Kitchener, Ontario
+- [Heat Pumps](https://kitchenerheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Kitchener, Ontario
+- [Duct Cleaning](https://kitchenerheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Kitchener, Ontario
+- [Thermostats](https://kitchenerheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Kitchener, Ontario
+- [Ductless AC Installation](https://kitchenerheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Kitchener, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Kitchener are answered on the homepage.
