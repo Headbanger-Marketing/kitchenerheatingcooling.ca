@@ -20,8 +20,6 @@ Service areas: Kitchener, Cambridge, Waterloo, Elmira, Listowel, New Hamburg, Ba
 - [Duct Cleaning](https://kitchenerheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Kitchener, Ontario
 - [Thermostats](https://kitchenerheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Kitchener, Ontario
 - [Ductless AC Installation](https://kitchenerheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Kitchener, Ontario
-- [Fireplace Installation](https://kitchenerheatingcooling.ca/services/fireplace-installation/): Fireplace Installation in Kitchener, Ontario
-- [Boiler Service](https://kitchenerheatingcooling.ca/services/boiler-service/): Boiler Service in Kitchener, Ontario
 
 ## FAQ
 
